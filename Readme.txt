@@ -1,3 +1,6 @@
+SIMPLE BANKING SYSTEM
+
+
 In this project,a simple banking system is depicted.Since there are no databases includedin the project,the account was created manually by taking the unputs from the user.
 Now the account balance is initially take as zero.The user is given a menu to chose between Loans section and other banking services.If the user select loans,he/she would be again given an 
 option to select the type of loan..There are agricultural,vehicle,home and industry loans which all the loans have seperate loan rates and different loan repayment years.So the
